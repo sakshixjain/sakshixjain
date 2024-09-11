@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Express.js** and DSA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
