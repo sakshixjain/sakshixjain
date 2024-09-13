@@ -11,8 +11,6 @@
 <a href="https://www.leetcode.com/sakshijain36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshijain36" height="30" width="40" /></a>
 
 </p>
-
-
 <img align="right" alt="Coding" width="370" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8113.jpg?w=740&t=st=1663174320~exp=1663174920~hmac=d90a4efdd268de64f2ed8d210843abbe50f4f9e3b3e40a7995beaa505223f901">
 
 <h3 align="left">Languages and Tools:</h3>
