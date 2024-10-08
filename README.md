@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">! <br/> </My name is Sakshi/> </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">! <br/> My name is Sakshi </h1>
 <h3 align="center">A Frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Express.js** && **DSA**
