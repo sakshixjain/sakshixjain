@@ -5,7 +5,7 @@
 <h3 align="center">A Frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Express.js**  &&  **DSA**
-- - 🔭 I’m currently working on [Portfolio Website](https://port-website--phi.vercel.app/)
+- - 🔭 I’m currently working on [Portfolio](https://port-website--phi.vercel.app/)
 
 - 📫 How to reach me **sakshijainjain36@gmail.com**
 
