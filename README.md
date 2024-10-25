@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning **Express.js**  &&  **DSA**
 - - 🔭 I’m currently working on [My Portfolio Website](https://port-website--phi.vercel.app/)
 
-- 📫 How to reach me **sakshijainjain36@gmail.com**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshixjain&label=Profile%20views&color=0e75b6&style=flat" alt="sakshixjain" /> </p>
 
 <h3 align="left">Connect with me:</h3>
