@@ -5,7 +5,7 @@
 <h3 align="center">A Frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Express.js**  &&  **DSA**
-- - 🔭 I’m currently working on [My Portfolio Website](https://port-website--phi.vercel.app/)
+- 🔭 I’m currently working on [My Portfolio Website](https://port-website--phi.vercel.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshixjain&label=Profile%20views&color=0e75b6&style=flat" alt="sakshixjain" /> </p>
 
