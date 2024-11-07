@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">! <br/> My name is Sakshi </h1>
 <h3 align="center">A Frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Express.js**  &&  **DSA**
+- 🌱 I’m currently learning **DSA**
 - 🔭 I’m currently working on [My Portfolio Website](https://port-website--phi.vercel.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshixjain&label=Profile%20views&color=0e75b6&style=flat" alt="sakshixjain" /> </p>
