@@ -7,10 +7,10 @@
 
 - 🌱 I’m currently learning **DSA**
 - 🔭 I’m currently working on [My Portfolio Website](https://port-website--phi.vercel.app/)
-
+<img align="right" alt="Coding" width="370" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8113.jpg?w=740&t=st=1663174320~exp=1663174920~hmac=d90a4efdd268de64f2ed8d210843abbe50f4f9e3b3e40a7995beaa505223f901">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshixjain&label=Profile%20views&color=0e75b6&style=flat" alt="sakshixjain" /> </p>
 
-<img align="right" alt="Coding" width="370" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8113.jpg?w=740&t=st=1663174320~exp=1663174920~hmac=d90a4efdd268de64f2ed8d210843abbe50f4f9e3b3e40a7995beaa505223f901">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sakshi-jain-a0048621b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakshi-jain-a0048621b/" height="30" width="40" /></a>
