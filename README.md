@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning **DSA**
-- 🔭 I’m currently working on [My Portfolio Website](https://port-website--phi.vercel.app/)
+- 🔭 My Portfolio -  [My Portfolio Website](https://port-website--phi.vercel.app/)
 - Frontend enthusiast | Merging design with functionality 🎨👨‍💻
 - Code that speaks louder than words ✍️ | MySQL & Frontend Adventures 📊 
 <img align="right" alt="Coding" width="370" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8113.jpg?w=740&t=st=1663174320~exp=1663174920~hmac=d90a4efdd268de64f2ed8d210843abbe50f4f9e3b3e40a7995beaa505223f901">
