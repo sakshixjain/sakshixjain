@@ -5,7 +5,7 @@
 <h3 align="center">A Frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA** && React Native
 - 🔭 My Portfolio -  [My Portfolio Website](https://port-website--phi.vercel.app/)
 - Frontend enthusiast | Merging design with functionality 🎨👨‍💻
 - Code that speaks louder than words ✍️ | MySQL & Frontend Adventures 📊 
