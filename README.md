@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  ✨ Frontend Developer | Crafting Clean & Interactive Web Experiences ✨
+  ✨ Full Stack Developer | Crafting Clean & Interactive Web Experiences ✨
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ### 👩‍💻 About Me
 
 - 🌱 Currently improving **Data Structures & Algorithms**
-- 💻 Focused on **Frontend Development (React + UI/UX)**
+- 💻 Focused on **Fullstack Development (React + UI/UX)**
 - 🎨 Love blending **design + functionality**
 - 📊 Practicing **MySQL & problem-solving daily**
 - 🚀 Goal: Become a **strong Full Stack Developer**
