@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Enthusiast;DSA+Learner;Building+User-Friendly+UI&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=FullStack+Developer;React+Enthusiast;DSA+Learner;Building+User-Friendly+UI&center=true&width=500&height=45" />
 </p>
 
 ---
