@@ -1,99 +1,172 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>  
-  I'm Sakshi Jain
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"/> I'm Sakshi Jain
 </h1>
 
 <h3 align="center">
-  ✨ Full Stack Developer | Crafting Clean & Interactive Web Experiences ✨
+💻 Full Stack Developer | 📱 React Native Developer | ⚙️ Backend Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=FullStack+Developer;React+Enthusiast;DSA+Learner;Building+User-Friendly+UI&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Native+Developer;Backend+Developer;DSA+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🌱 Currently improving **Data Structures & Algorithms**
-- 💻 Focused on **Fullstack Development (React + UI/UX)**
-- 🎨 Love blending **design + functionality**
-- 📊 Practicing **MySQL & problem-solving daily**
-- 🚀 Goal: Become a **strong Full Stack Developer**
+- 💼 Currently working as a **Full Stack Developer**
+- 📱 Building cross-platform mobile applications using **React Native**
+- ⚙️ Developing scalable backend applications using **Node.js, Express.js & Laravel**
+- 🌐 Experienced in building responsive web applications with **React.js**
+- 🗄️ Working with **MongoDB** and **MySQL**
+- 🧠 Solving **Data Structures & Algorithms** regularly
+- 🚀 Passionate about building scalable, clean and user-friendly applications
 
 ---
 
-### 🌐 Portfolio
+## 🌐 Portfolio
 
 🔗 **Live Website:**  
 👉 https://port-website--phi.vercel.app/
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sakshi-jain-a0048621b/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/sakshi-jain-a0048621b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.leetcode.com/sakshijain36" target="blank">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+
+<a href="https://leetcode.com/sakshijain36/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://www.hackerrank.com/profile/sakshijainjain36" target="blank">
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank" />
+
+<a href="https://www.hackerrank.com/profile/sakshijainjain36" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-<a href="https://auth.geeksforgeeks.org/user/sakshijain36" target="blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
+
+<a href="https://auth.geeksforgeeks.org/user/sakshijain36" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+# 💼 Experience
 
-#### 🚀 Languages
-`C` `C++` `Java` `Python` `JavaScript`
+## Full Stack Developer
 
-#### 🎨 Frontend
-`HTML` `CSS` `Bootstrap` `Tailwind CSS` `React` `Redux`
+🏢 **Your Company Name**
 
-#### ⚙️ Backend & Database
-`Node.js` `Express` `PHP` `Laravel` `MySQL` `MongoDB`
+📅 **Present**
 
-#### 🧰 Tools
-`Git` `Postman` `Figma` `Appwrite`
+- Developed scalable REST APIs using **Node.js**, **Express.js**, and **Laravel**.
+- Built responsive web applications using **React.js**.
+- Developed cross-platform mobile applications using **React Native**.
+- Worked with **MongoDB** and **MySQL** databases.
+- Integrated third-party APIs including Payment Gateway, WhatsApp API, and external services.
+- Collaborated with frontend and backend teams to deliver production-ready features.
 
 ---
 
-### 📊 GitHub Stats
+# 🛠️ Tech Stack
+
+## 🚀 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,php"/>
+</p>
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux"/>
+</p>
+
+## 📱 Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react"/>
+</p>
+
+<p>React Native</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel"/>
+</p>
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshixjain&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshixjain&theme=radical&hide_border=true" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sakshixjain&show_icons=true&theme=radical&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshixjain&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshixjain&layout=compact&theme=radical&hide_border=true" width="50%" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshixjain&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-### 🔥 Activity Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshixjain&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshixjain&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-### 💡 Quote I Believe In
+# 📚 Currently Learning
 
-> "Consistency beats motivation. Small steps every day lead to big results."
+- 📱 React Native
+- ⚙️ Backend Development
+- 🧠 Advanced Data Structures & Algorithms
+- ☁️ REST APIs & Authentication
+- 🚀 Scalable System Design
 
 ---
 
-### 👀 Profile Views
+# 🎯 2026 Goals
+
+- ✅ Master React Native
+- ✅ Become Strong in Backend Development
+- ✅ Solve 500+ DSA Problems
+- ✅ Build Production-Level Full Stack Projects
+- ✅ Contribute to Open Source
+- ✅ Switch to a Product-Based Company
+
+---
+
+# 💡 Quote
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshixjain&label=Profile%20views&color=blue&style=flat" />
+
+> **"Consistency beats motivation. Small improvements every day create remarkable results."**
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, don't forget to ⭐ my repositories.
 </p>
