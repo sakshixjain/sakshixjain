@@ -73,7 +73,7 @@
 # 🛠️ Tech Stack
 
 ### 🚀 Languages
-`C` `C++` `Java` `JavaScript` `TypeScript` `PHP`
+`C` `C++` `Java` `JavaScript` `TypeScript` PHP
 
 ### 🎨 Frontend
 `HTML` `CSS` `Bootstrap` `Tailwind CSS` `React.js` `Redux`
