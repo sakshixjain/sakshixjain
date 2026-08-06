@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Native+Developer;Backend+Developer;DSA+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Native+Developer;Backend+Developer;DSA+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p>
 
 ---
@@ -49,7 +49,6 @@
 <a href="https://auth.geeksforgeeks.org/user/sakshijain36" target="_blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -73,43 +72,23 @@
 
 # 🛠️ Tech Stack
 
-## 🚀 Languages
+### 🚀 Languages
+`C` `C++` `Java` `JavaScript` `TypeScript` `PHP`
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,php"/>
-</p>
+### 🎨 Frontend
+`HTML` `CSS` `Bootstrap` `Tailwind CSS` `React.js` `Redux`
 
-## 🎨 Frontend
+### 📱 Mobile
+`React Native`
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux"/>
-</p>
+### ⚙️ Backend
+`Node.js` `Express.js` `Laravel`
 
-## 📱 Mobile
+### 🗄️ Database
+`MongoDB` `MySQL`
 
-<p>
-<img src="https://skillicons.dev/icons?i=react"/>
-</p>
-
-<p>React Native</p>
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel"/>
-</p>
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-## 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma"/>
-</p>
+### 🧰 Tools
+`Git` `GitHub` `Postman` `VS Code` `Figma`
 
 ---
 
@@ -166,7 +145,6 @@
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
-
+⭐ <b>Thanks for visiting my profile!</b> ⭐ <br><br>
 If you like my work, don't forget to ⭐ my repositories.
 </p>
