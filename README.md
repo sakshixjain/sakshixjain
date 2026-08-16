@@ -26,7 +26,6 @@
 
 ## 🌐 Portfolio
 
-🔗 **Live Website:**  
 👉 [My Portfolio](https://portfolio-ts-silk.vercel.app/)
 
 ---
