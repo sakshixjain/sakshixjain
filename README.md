@@ -17,9 +17,6 @@
 - 💼 Currently working as a **Full Stack Developer**
 - 📱 Building cross-platform mobile applications using **React Native**
 - ⚙️ Developing scalable backend applications using **Node.js, Express.js & Laravel**
-- 🌐 Experienced in building responsive web applications with **React.js**
-- 🗄️ Working with **MongoDB** and **MySQL**
-- 🧠 Solving **Data Structures & Algorithms** regularly
 - 🚀 Passionate about building scalable, clean and user-friendly applications
 
 ---
@@ -63,7 +60,6 @@
 - Developed scalable REST APIs using **Node.js**, **Express.js**, and **Laravel**.
 - Built responsive web applications using **React.js**.
 - Developed cross-platform mobile applications using **React Native**.
-- Worked with **MongoDB** and **MySQL** databases.
 - Integrated third-party APIs including Payment Gateway, WhatsApp API, and external services.
 - Collaborated with frontend and backend teams to deliver production-ready features.
 
@@ -117,7 +113,6 @@
 - 📱 React Native
 - ⚙️ Backend Development
 - 🧠 Advanced Data Structures & Algorithms
-- ☁️ REST APIs & Authentication
 - 🚀 Scalable System Design
 
 ---
@@ -126,10 +121,8 @@
 
 - ✅ Master React Native
 - ✅ Become Strong in Backend Development
-- ✅ Solve 500+ DSA Problems
 - ✅ Build Production-Level Full Stack Projects
 - ✅ Contribute to Open Source
-- ✅ Switch to a Product-Based Company
 
 ---
 
