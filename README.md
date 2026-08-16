@@ -53,7 +53,7 @@
 
 ## Full Stack Developer
 
-🏢 **Your Company Name**
+🏢 **Infoace Experts pvt ltd**
 
 📅 **Present**
 
