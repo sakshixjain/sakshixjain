@@ -23,7 +23,7 @@
 
 ## 🌐 Portfolio
 
-👉 [My Portfolio](https://portfolio-ts-silk.vercel.app/)
+👉 [My Portfolio](https://its-sakshi.vercel.app/)
 
 ---
 
