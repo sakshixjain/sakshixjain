@@ -108,24 +108,6 @@
 
 ---
 
-# 📚 Currently Learning
-
-- 📱 React Native
-- ⚙️ Backend Development
-- 🧠 Advanced Data Structures & Algorithms
-- 🚀 Scalable System Design
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master React Native
-- ✅ Become Strong in Backend Development
-- ✅ Build Production-Level Full Stack Projects
-- ✅ Contribute to Open Source
-
----
-
 # 💡 Quote
 
 <p align="center">
